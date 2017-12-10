@@ -1,0 +1,52 @@
+{
+  "restorants": [
+    {
+      "name": "Vegera",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit eget diam sit amet ullamcorper. Aliquam ut blandit purus, nec molestie orci. Suspendisse sollicitudin nunc sem, accumsan maximus enim ultrices non. Morbi cursus convallis bibendum. Aenean eu justo sed purus mollis consequat. Duis nisl massa, bibendum id enim id, condimentum vestibulum lectus. Quisque ut lacus neque. Aliquam magna ante, laoreet egestas nunc vitae, consequat dignissim enim. Integer maximus purus eu eros eleifend, et interdum augue viverra. Ut mattis sapien magna, vel tincidunt diam semper id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec a nulla elit. Vivamus convallis iaculis risus in auctor.",
+      "image":
+        "https://cdn.pixabay.com/photo/2017/09/30/15/10/pizza-2802332_640.jpg",
+      "website": null,
+      "lattitude": 41.1231,
+      "logitude": 20.8016,
+      "onDelivery": false,
+      "phoneNumber": "077-898-898"
+    },
+    {
+      "name": "leonardo",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit eget diam sit amet ullamcorper. Aliquam ut blandit purus, nec molestie orci. Suspendisse sollicitudin nunc sem, accumsan maximus enim ultrices non. Morbi cursus convallis bibendum. Aenean eu justo sed purus mollis consequat. Duis nisl massa, bibendum id enim id, condimentum vestibulum lectus. Quisque ut lacus neque. Aliquam magna ante, laoreet egestas nunc vitae, consequat dignissim enim. Integer maximus purus eu eros eleifend, et interdum augue viverra. Ut mattis sapien magna, vel tincidunt diam semper id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec a nulla elit. Vivamus convallis iaculis risus in auctor.",
+      "image":
+        "https://cdn.pixabay.com/photo/2017/09/30/15/10/pizza-2802332_640.jpg",
+      "website": null,
+      "lattitude": 41.1231,
+      "logitude": 20.8016,
+      "onDelivery": false,
+      "phoneNumber": "077-898-898"
+    },
+    {
+      "name": "memera",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit eget diam sit amet ullamcorper. Aliquam ut blandit purus, nec molestie orci. Suspendisse sollicitudin nunc sem, accumsan maximus enim ultrices non. Morbi cursus convallis bibendum. Aenean eu justo sed purus mollis consequat. Duis nisl massa, bibendum id enim id, condimentum vestibulum lectus. Quisque ut lacus neque. Aliquam magna ante, laoreet egestas nunc vitae, consequat dignissim enim. Integer maximus purus eu eros eleifend, et interdum augue viverra. Ut mattis sapien magna, vel tincidunt diam semper id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec a nulla elit. Vivamus convallis iaculis risus in auctor.",
+      "image":
+        "https://cdn.pixabay.com/photo/2017/09/30/15/10/pizza-2802332_640.jpg",
+      "website": null,
+      "lattitude": 41.1231,
+      "logitude": 20.8016,
+      "onDelivery": false,
+      "phoneNumber": "077-898-898"
+    },
+    {
+      "name": "drug",
+      "description":
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit eget diam sit amet ullamcorper. Aliquam ut blandit purus, nec molestie orci. Suspendisse sollicitudin nunc sem, accumsan maximus enim ultrices non. Morbi cursus convallis bibendum. Aenean eu justo sed purus mollis consequat. Duis nisl massa, bibendum id enim id, condimentum vestibulum lectus. Quisque ut lacus neque. Aliquam magna ante, laoreet egestas nunc vitae, consequat dignissim enim. Integer maximus purus eu eros eleifend, et interdum augue viverra. Ut mattis sapien magna, vel tincidunt diam semper id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec a nulla elit. Vivamus convallis iaculis risus in auctor.",
+      "image":
+        "https://cdn.pixabay.com/photo/2017/09/30/15/10/pizza-2802332_640.jpg",
+      "website": null,
+      "lattitude": 41.1231,
+      "logitude": 20.8016,
+      "onDelivery": false,
+      "phoneNumber": "077-898-898"
+    }
+  ]
+}
