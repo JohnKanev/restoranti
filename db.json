@@ -1,52 +1,52 @@
 {
   "restorants": [
     {
-      "name": "Vegera",
+      "name": "Pizzeria Leonardo",
       "description":
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit eget diam sit amet ullamcorper. Aliquam ut blandit purus, nec molestie orci. Suspendisse sollicitudin nunc sem, accumsan maximus enim ultrices non. Morbi cursus convallis bibendum. Aenean eu justo sed purus mollis consequat. Duis nisl massa, bibendum id enim id, condimentum vestibulum lectus. Quisque ut lacus neque. Aliquam magna ante, laoreet egestas nunc vitae, consequat dignissim enim. Integer maximus purus eu eros eleifend, et interdum augue viverra. Ut mattis sapien magna, vel tincidunt diam semper id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec a nulla elit. Vivamus convallis iaculis risus in auctor.",
+        "The main draw at this local pizza institution is its cute little dining terrace out back, which spills into the gardens of ancient Sveti Nikola Bolnicki.",
       "image":
-        "https://cdn.pixabay.com/photo/2017/09/30/15/10/pizza-2802332_640.jpg",
+        "https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/23795690_10155447841516888_3832920488624429519_n.jpg?oh=142da8113968eecd8a35859ce6d51c90&oe=5AC780C7",
       "website": null,
-      "lattitude": 41.1231,
-      "logitude": 20.8016,
+      "lattitude": 41.1123,
+      "logitude": 20.7976,
       "onDelivery": false,
-      "phoneNumber": "077-898-898"
+      "phoneNumber": "046 260 359"
     },
     {
-      "name": "leonardo",
+      "name": "KANEO",
       "description":
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit eget diam sit amet ullamcorper. Aliquam ut blandit purus, nec molestie orci. Suspendisse sollicitudin nunc sem, accumsan maximus enim ultrices non. Morbi cursus convallis bibendum. Aenean eu justo sed purus mollis consequat. Duis nisl massa, bibendum id enim id, condimentum vestibulum lectus. Quisque ut lacus neque. Aliquam magna ante, laoreet egestas nunc vitae, consequat dignissim enim. Integer maximus purus eu eros eleifend, et interdum augue viverra. Ut mattis sapien magna, vel tincidunt diam semper id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec a nulla elit. Vivamus convallis iaculis risus in auctor.",
+        "Kaneo Restaurant is situated close to  Kaneo Beach overlooking Lake Ohrid, very close to historical places. For every local person the hardest thing is finding a good local restaurant for eating out, which will be as good as the home cooking and at the same time will offer something extraordinary and different. Restaurant 'Kaneo' combines all these perfectly. Already well known among the locals and the tourists with every season trying to be better and more interesting. Here, you will definitely feel relaxed, calm, and you will enjoy the delicious and tasty food.",
       "image":
-        "https://cdn.pixabay.com/photo/2017/09/30/15/10/pizza-2802332_640.jpg",
+        "http://www.visitohrid.mk/cache/11220112_793439014097659_6125318433432854019_n_1_images_thumb_medium730_0.jpg",
       "website": null,
       "lattitude": 41.1231,
       "logitude": 20.8016,
       "onDelivery": false,
-      "phoneNumber": "077-898-898"
+      "phoneNumber": "070 776 837"
     },
     {
-      "name": "memera",
+      "name": "Pizza Nemo",
       "description":
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit eget diam sit amet ullamcorper. Aliquam ut blandit purus, nec molestie orci. Suspendisse sollicitudin nunc sem, accumsan maximus enim ultrices non. Morbi cursus convallis bibendum. Aenean eu justo sed purus mollis consequat. Duis nisl massa, bibendum id enim id, condimentum vestibulum lectus. Quisque ut lacus neque. Aliquam magna ante, laoreet egestas nunc vitae, consequat dignissim enim. Integer maximus purus eu eros eleifend, et interdum augue viverra. Ut mattis sapien magna, vel tincidunt diam semper id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec a nulla elit. Vivamus convallis iaculis risus in auctor.",
+        "Пицеријата „Немо“, еден од најпознатите угостителски брендови во Охрид, отсега и во нов амбиент. На свеченоста присуствуваа пријатели, луѓе од еснафот, голем број гости.",
       "image":
-        "https://cdn.pixabay.com/photo/2017/09/30/15/10/pizza-2802332_640.jpg",
+        "http://www.portaloko.hr/slika/203288/0/0/0/0/0/0/pizzeria-nemo-0.jpg",
       "website": null,
       "lattitude": 41.1231,
       "logitude": 20.8016,
       "onDelivery": false,
-      "phoneNumber": "077-898-898"
+      "phoneNumber": "046 253 355"
     },
     {
-      "name": "drug",
+      "name": "Fish & Lounge Bar Lihnidos",
       "description":
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit eget diam sit amet ullamcorper. Aliquam ut blandit purus, nec molestie orci. Suspendisse sollicitudin nunc sem, accumsan maximus enim ultrices non. Morbi cursus convallis bibendum. Aenean eu justo sed purus mollis consequat. Duis nisl massa, bibendum id enim id, condimentum vestibulum lectus. Quisque ut lacus neque. Aliquam magna ante, laoreet egestas nunc vitae, consequat dignissim enim. Integer maximus purus eu eros eleifend, et interdum augue viverra. Ut mattis sapien magna, vel tincidunt diam semper id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec a nulla elit. Vivamus convallis iaculis risus in auctor.",
+        "The renomated Fish Reastaurant Ohrid was recently renovated and turned into a modern lounge bar.        Fish&Lounge Bar Lihnidos is best known for preparing the worldwide famous fish which are the Ohrid Trout and Bleak as well as for preparing the most delicious fish stew in Ohrid. Fish&Lounge Bar Lihnidos offers to its guests the possibility to use its capacity for various occasions, celebrations and business meetings.       Located in the very center of the city,this is a great place to experience Ohrid. Fish restaurant has in total 235 seats of which 200 are on the terrace that offers a wonderful view on the Ohrid Square and the lake and 35 seats in the inner part restaurant.",
       "image":
-        "https://cdn.pixabay.com/photo/2017/09/30/15/10/pizza-2802332_640.jpg",
+        "http://www.publicitet.mk/media/k2/items/cache/40122d93f55f49fb6c7b0715c6c431f1_L.jpg",
       "website": null,
       "lattitude": 41.1231,
       "logitude": 20.8016,
       "onDelivery": false,
-      "phoneNumber": "077-898-898"
+      "phoneNumber": "070 232 163"
     }
   ]
 }
