@@ -9,7 +9,7 @@
       "website": null,
       "lattitude": 41.1123,
       "logitude": 20.7976,
-      "onDelivery": false,
+      "onDelivery": true,
       "phoneNumber": "046 260 359"
     },
     {
@@ -47,6 +47,29 @@
       "logitude": 20.8016,
       "onDelivery": false,
       "phoneNumber": "070 232 163"
+    },
+    {
+      "name": "Restaurant Madera",
+      "description":
+        "The renomated burger restaurant Ohrid was recently renovated and turned into a modern lounge bar.        Fish&Lounge Bar Lihnidos is best known for preparing the worldwide famous fish which are the Ohrid Trout and Bleak as well as for preparing the most delicious fish stew in Ohrid. Fish&Lounge Bar Lihnidos offers to its guests the possibility to use its capacity for various occasions, celebrations and business meetings.       Located in the very center of the city,this is a great place to experience Ohrid. Fish restaurant has in total 235 seats of which 200 are on the terrace that offers a wonderful view on the Ohrid Square and the lake and 35 seats in the inner part restaurant.",
+      "image": "https://resizer.otstatic.com/v2/photos/large/23368780.jpg",
+      "website": null,
+      "lattitude": 41.1231,
+      "logitude": 20.8016,
+      "onDelivery": false,
+      "phoneNumber": "070 352 163"
+    },
+    {
+      "name": "Dublin",
+      "description":
+        "The renomated burger restaurant Ohrid was recently renovated and turned into a modern lounge bar.        Fish&Lounge Bar Lihnidos is best known for preparing the worldwide famous fish which are the Ohrid Trout and Bleak as well as for preparing the most delicious fish stew in Ohrid. Fish&Lounge Bar Lihnidos offers to its guests the possibility to use its capacity for various occasions, celebrations and business meetings.       Located in the very center of the city,this is a great place to experience Ohrid. Fish restaurant has in total 235 seats of which 200 are on the terrace that offers a wonderful view on the Ohrid Square and the lake and 35 seats in the inner part restaurant.",
+      "image":
+        "https://media-cdn.tripadvisor.com/media/photo-s/0c/4d/be/d9/panorama-ablakok-jo-idoben.jpg",
+      "website": null,
+      "lattitude": 41.1231,
+      "logitude": 20.8016,
+      "onDelivery": false,
+      "phoneNumber": "070 352 163"
     }
   ]
 }
